@@ -1,0 +1,2 @@
+# NextJsPrivateRouter
+private router example
